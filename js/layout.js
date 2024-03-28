@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
     wrap.innerHTML += `
         <div style="width:100%; background-color: #FFF; padding: 1.75rem; box-sizing:border-box; margin:0 auto; margin-bottom: 0.75rem;">
             <div style="width: 100%; max-width: 30rem; margin: 0 auto;">
-                <div style="font-size: 0.75rem; font-weight: 400; color: #666; text-decoration: underline; text-underline-offset: 0.25rem; margin-bottom: 0.5rem;">"파티원 구함" &lt;partywonguham@gmail.com></div>
+                <div style="font-size: 0.75rem; font-weight: 400; color: #666; text-decoration: underline; text-underline-offset: 0.25rem; margin-bottom: 0.5rem;">"파티원구함" &lt;partywonguham@gmail.com></div>
                 <div style="font-size: 1.25rem; font-weight: 700; color: #333;">[파티원구함] 접수된 문의 내용</div>
             </div>
         </div>
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     wrap.innerHTML += `
         <div style="width:100%; background-color: #FFF; padding: 1.75rem; box-sizing:border-box; margin:0 auto; margin-top: 3.75rem; margin-bottom: 0.75rem;">
             <div style="width: 100%; max-width: 30rem; margin: 0 auto;">
-                <div style="font-size: 0.75rem; font-weight: 400; color: #666; text-decoration: underline; text-underline-offset: 0.25rem; margin-bottom: 0.5rem;">"파티원 구함" &lt;partywonguham@gmail.com></div>
+                <div style="font-size: 0.75rem; font-weight: 400; color: #666; text-decoration: underline; text-underline-offset: 0.25rem; margin-bottom: 0.5rem;">"파티원구함" &lt;partywonguham@gmail.com></div>
                 <div style="font-size: 1.25rem; font-weight: 700; color: #333;">[파티원구함] 인원이 모두 모였어요</div>
             </div>
         </div>
